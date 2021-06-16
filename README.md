@@ -4,6 +4,8 @@
 Registration App: Django registration and login web application developed using in-built Auth , User library, and SQLite database with front-end design and all the validations.
 
 # Images
+![Register](https://user-images.githubusercontent.com/24228300/122262057-a1fc3500-cef2-11eb-8a75-404ff5fdd6b9.PNG)
+![Login_validation_06](https://user-images.githubusercontent.com/24228300/122262079-a7f21600-cef2-11eb-8ea2-f87462a9ec93.PNG)
 
 # Getting Started
 
